@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1672192772 source:c:\codeforce\st\sto\hh\pro.c
+	<stdio.h>
+	<stdlib.h>
+	"pro.h"
+	<string.h>
+
+1672192284 c:\codeforce\st\sto\hh\pro.h
+
+1672192557 source:c:\codeforce\st\sto\hh\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pro.h"
+
+1672335232 source:c:\codeforce\stock manager\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pro.h"
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+
+1672333207 c:\codeforce\stock manager\project\pro.h
+
+1672335293 source:c:\codeforce\stock manager\project\pro.c
+	<stdio.h>
+	<stdlib.h>
+	"pro.h"
+	<string.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<stdio.h>
+	<stdlib.h>
+
